@@ -1,3 +1,5 @@
+# DOESN'T WORK, PLEASE IGNORE
+
 # TrollLEDs
 
  A TrollStore application to control individual flashlight LEDs for iOS devices.
